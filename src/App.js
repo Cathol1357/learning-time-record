@@ -74,7 +74,7 @@ function App() {
 
   return (
     <>
-      <div className="title">学習時間記録アプリ！！</div>
+      <div className="title">学習時間記録アプリうほ！！</div>
 
       <InputTodo
         contentText={learnSubject}
